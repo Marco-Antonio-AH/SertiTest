@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing">16dp</dimen>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="spacing_large">32dp</dimen>
+    <dimen name="spacing_extra_large">64dp</dimen>
+    <dimen name="corner_radius">8dp</dimen>
+    <dimen name="button_icon_size">40dp</dimen>
+    <dimen name="title_image_spacing">24dp</dimen>
+    <dimen name="progress_size">48dp</dimen>
+    <dimen name="history_max_height">120dp</dimen>
+    <dimen name="history_medium_height">60dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="btn_height">48dp</dimen>
+    <dimen name="tag_margin">4dp</dimen>
+    <dimen name="tag_padding_horizontal">12dp</dimen>
+    <dimen name="tag_padding_vertical">6dp</dimen>
+    <dimen name="tag_text_size">14sp</dimen>
+    <dimen name="card_margin">8dp</dimen>
+    <dimen name="card_padding">8dp</dimen>
+    <dimen name="logo_size">120dp</dimen>
+    <dimen name="avatar_size">56dp</dimen>
+</resources>

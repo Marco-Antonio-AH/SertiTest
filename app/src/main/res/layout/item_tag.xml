@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tvTag"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/tag_margin"
+    android:paddingHorizontal="@dimen/tag_padding_horizontal"
+    android:paddingVertical="@dimen/tag_padding_vertical"
+    android:background="@drawable/bg_tag"
+    android:textColor="@color/background"
+    android:textSize="@dimen/tag_text_size"
+    android:textStyle="bold" />

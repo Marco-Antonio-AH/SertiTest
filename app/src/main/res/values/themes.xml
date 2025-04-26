@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.Serti" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/bg_gradient</item>
+
+        <item name="colorPrimary">@color/gradient_start</item>
+        <item name="colorPrimaryVariant">@color/gradient_end</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorSecondary">@color/gradient_end</item>
+
+        <item name="colorOnSecondary">@color/on_primary</item>
+    </style>
+
+    <style name="Theme.Serti" parent="Base.Theme.Serti" />
+
+    <style name="Theme.Serti.Login" parent="Theme.Serti">
+    </style>
+
+</resources>

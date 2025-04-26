@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Serti</string>
+
+    <string name="open">Abrir</string>
+    <string name="close">Cerrar</string>
+    <string name="prev_page">Página anterior</string>
+    <string name="next_page">Página siguiente</string>
+    <string name="page_indicator">Página %1$d de %2$d</string>
+
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="tv_register">¿No tienes cuenta? Regístrate</string>
+
+    <string name="hint_confirm_password">Confirmar contraseña</string>
+    <string name="btn_register">Registrarse</string>
+    <string name="tv_login">¿Ya tienes cuenta? Inicia sesión</string>
+
+    <string name="search_hint">Buscar usuario…</string>
+    <string name="detail_title">Detalles</string>
+    <string name="avatar_desc">Imagen de perfil</string>
+    <string name="id_label">Número de id</string>
+    <string name="label_first_name">Nombre</string>
+    <string name="label_last_name">Apellido</string>
+    <string name="label_email">Email</string>
+    <string name="label_id">Número de Id</string>
+    <string name="details">Detalles del usuario</string>
+
+    <string name="sample_name">Nombre Apellido</string>
+    <string name="sample_email">correo@ejemplo.com</string>
+    <string name="sample_id">#12</string>
+
+    <string name="logout">Cerrar sesión</string>
+    <string name="logout_confirmation">¿Estás seguro de que deseas cerrar sesión?</string>
+    <string name="cancel">Cancelar</string>
+    <string name="accept">Aceptar</string>
+</resources>
