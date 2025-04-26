@@ -18,7 +18,6 @@
         android:theme="@style/Theme.Serti"
         tools:targetApi="31">
 
-        <!-- Punto de entrada: MainActivity decide a dónde ir -->
         <activity
             android:name=".MainActivity"
             android:exported="true"
@@ -30,22 +29,18 @@
             </intent-filter>
         </activity>
 
-        <!-- Pantalla de Login -->
         <activity
             android:name=".ui.login.LoginActivity"
             android:exported="false" />
 
-        <!-- Pantalla de Registro -->
         <activity
             android:name=".ui.register.RegisterActivity"
             android:exported="false" />
 
-        <!-- Lista de usuarios -->
         <activity
             android:name=".ui.users.UsersActivity"
             android:exported="false" />
 
-        <!-- Detalle de usuario -->
         <activity
             android:name=".ui.detail.DetailActivity"
             android:exported="false" />
